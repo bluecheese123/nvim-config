@@ -20,6 +20,6 @@ return {
       "specifier changed to",
       "Token not allowed in a PDF string",
     }
-    vim.maplocalleader = "\\"
+    vim.maplocalleader = ","
   end,
 }
