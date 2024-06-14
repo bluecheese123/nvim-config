@@ -1,8 +1,6 @@
 # My personal neovim config catered to writing LaTeX.
 
-This serves as my base configuration for Neovim incase I break something while I keep adding more plugins for seemingly no good reason!
-
-Its based on the LazyVim distro using lazy.vim as the package manager. Read about it [here](http://www.lazyvim.org/).
+This serves as my base configuration for Neovim incase I break something while I keep adding more plugins for seemingly no good reason! Its based on the LazyVim distro using lazy.vim as the package manager. Read about it [here](http://www.lazyvim.org/).
 
 ## Key components
 
